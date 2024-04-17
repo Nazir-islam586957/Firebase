@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535008666772",
+    "project_id": "myfrebaseproject-34a00",
+    "storage_bucket": "myfrebaseproject-34a00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535008666772:android:da248660648ffdc37a8081",
+        "android_client_info": {
+          "package_name": "com.example.firebase_cannect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXldUu5rukk3gWoKucFoXBUZjmbAyY0zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

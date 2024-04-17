@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926223382742",
+    "project_id": "fire-7a61c",
+    "storage_bucket": "fire-7a61c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926223382742:android:35397bb2f5f16d6871f177",
+        "android_client_info": {
+          "package_name": "cogfm.example.fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSz5NYMuoJgb3ra_9IKtysjKolrAEWM_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
